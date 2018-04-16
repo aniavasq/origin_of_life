@@ -23,6 +23,18 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient9820"
+       inkscape:collect="always">
+      <stop
+         id="stop9823"
+         offset="0"
+         style="stop-color:#7fe866;stop-opacity:1;" />
+      <stop
+         id="stop9826"
+         offset="1"
+         style="stop-color:#7fe866;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient9818">
       <stop
@@ -258,7 +270,7 @@
          offset="0"
          id="stop9735" />
       <stop
-         style="stop-color:#7fe866;stop-opacity:0;"
+         style="stop-color:#7fe866;stop-opacity:1"
          offset="1"
          id="stop9737" />
     </linearGradient>
@@ -1734,7 +1746,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient9733"
+       xlink:href="#linearGradient9820"
        id="linearGradient9739"
        x1="706.92505"
        y1="-882.05463"
@@ -1930,8 +1942,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000002"
-     inkscape:cx="4276.8981"
-     inkscape:cy="6279.1348"
+     inkscape:cx="296.8985"
+     inkscape:cy="2299.1352"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -32655,7 +32667,7 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4015.1875,-5352.6379 1.625,-65"
+       d="m 4015,-5352.6379 0,-65"
        id="path11668"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -32663,7 +32675,7 @@
        inkscape:connection-end="#g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-1-3-5-3-3-7-2-9-9-1-1-8-3-7-9" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4033.9375,-5352.6379 164.125,-65"
+       d="m 4033.75,-5352.6379 162.5,-65"
        id="path11670"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -33346,7 +33358,7 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 4023.5172,-5432.6379 4045,-5457.3601"
+       d="M 4021.7241,-5432.6379 4045,-5458.5994"
        id="path13013"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -33354,7 +33366,7 @@
        inkscape:connection-end="#g12707" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4006.9655,-5432.6379 -46.9665,-35.1038"
+       d="M 4005.1724,-5432.6379 3960,-5467.1115"
        id="path13015"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -33362,7 +33374,7 @@
        inkscape:connection-end="#g12597" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4018.2222,-5432.6379 23.6297,-145"
+       d="m 4016.2963,-5432.6379 25.0617,-145"
        id="path13017"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -33370,7 +33382,7 @@
        inkscape:connection-end="#g12672" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4014.5185,-5432.6379 -48.0474,-145.2178"
+       d="M 4012.5926,-5432.6379 3966.0165,-5577.74"
        id="path13019"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -33378,7 +33390,7 @@
        inkscape:connection-end="#g12635" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4217.2,-5432.6379 1.3333,-50"
+       d="m 4215.3333,-5432.6379 2.2223,-50"
        id="path13021"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -33386,7 +33398,7 @@
        inkscape:connection-end="#g12743" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4249.9857,-5428.0212 78.458,-6.8582"
+       d="m 4249.974,-5428.1529 78.4466,-6.7625"
        id="path13023"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -33394,7 +33406,7 @@
        inkscape:connection-end="#g12825" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4223.9623,-5432.6379 97.0069,-104.4993"
+       d="m 4222.0755,-5432.6379 98.6842,-104.6052"
        id="path13025"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
