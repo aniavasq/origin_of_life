@@ -1941,9 +1941,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000002"
-     inkscape:cx="296.8985"
-     inkscape:cy="2299.1352"
+     inkscape:zoom="0.17677671"
+     inkscape:cx="4692.2472"
+     inkscape:cy="867.25771"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -36685,7 +36685,7 @@
          id="tspan9834"
          x="1257.5879"
          y="-3267.866"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:120px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Medium';fill:#eeeeee;fill-opacity:0.9372549;stroke:none">Pokemon Phylogenetic Tree of Live</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:120px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Medium';fill:#eeeeee;fill-opacity:0.9372549;stroke:none">Pokemon Phylogenetic Tree of Life</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:120px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Medium';text-align:center;text-anchor:middle;opacity:1;fill:#eeeeee;fill-opacity:0.9372549;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -36706,7 +36706,7 @@
          x="283.95932"
          y="-2855.8923"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
-         id="tspan9842">biologycal perspective</tspan></text>
+         id="tspan9842">biologycal perspective.</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 4154.5067,-5312.6379 100.0386,-38.4631"
@@ -36715,5 +36715,37 @@
        inkscape:connector-curvature="0"
        inkscape:connection-start="#g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-1-3-5-3-3-7-2-9-9-1-1-8-3-7-9-2-3"
        inkscape:connection-end="#g11560" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9815"
+       style="text-anchor:middle;text-align:center;fill:#764dff;fill-opacity:1;-inkscape-font-specification:'Helvetica Neue';font-family:'Helvetica Neue';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;stroke:#7fe866;stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;opacity:1;"><flowRegion
+         id="flowRegion9817"><rect
+           id="rect9819"
+           width="228.49998"
+           height="118.49998"
+           x="4956.9995"
+           y="6623.5"
+           style="-inkscape-font-specification:'Helvetica Neue';font-family:'Helvetica Neue';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara9821"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9823"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:30px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Thin';text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(0,-5437.6379)"><flowRegion
+         id="flowRegion9825"><rect
+           id="rect9827"
+           width="904.49994"
+           height="580.49994"
+           x="4279.9995"
+           y="6163"
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:30px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Thin';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+         id="flowPara9843"
+         style="text-align:start;text-anchor:start">Pokemon is an official licensed property of The Pokémon Company and Nintendo. The source icons are © Nintendo/Creatures Inc./GAME FREAK Inc. downloaded from github.com/msikma/pokesprite. </flowPara><flowPara
+         style="text-align:start;text-anchor:start"
+         id="flowPara9871">Originally posted to reddit.com/r/pokemon. Based on &quot;Pokemon Tree of Life&quot; by /u/TinySamurai and &quot;Pokemon Tree of Life V4.0&quot; by </flowPara><flowPara
+         style="text-align:start;text-anchor:start"
+         id="flowPara9873">/u/InnocuousSpaniard.</flowPara><flowPara
+         id="flowPara9847"
+         style="text-align:start;text-anchor:start" /><flowPara
+         id="flowPara9849"
+         style="text-align:start;text-anchor:start">Version 0.1 Posted by /u/aniavasq.</flowPara></flowRoot>  </g>
 </svg>
