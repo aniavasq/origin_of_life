@@ -18,8 +18,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="phylogenic_tree.svg"
    inkscape:export-filename="/home/anibal/Workspace/pokemon/Origin_of_life/phylogenic_tree.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
   <defs
      id="defs4">
     <linearGradient
@@ -1941,9 +1941,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17677671"
-     inkscape:cx="4692.2472"
-     inkscape:cy="867.25771"
+     inkscape:zoom="1.4142137"
+     inkscape:cx="1044.6354"
+     inkscape:cy="2523.8515"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1957,7 +1957,7 @@
      inkscape:window-maximized="1"
      inkscape:snap-center="true"
      showguides="false"
-     inkscape:snap-grids="false"
+     inkscape:snap-grids="true"
      inkscape:snap-to-guides="false">
     <inkscape:grid
        type="xygrid"
@@ -5028,7 +5028,7 @@
            id="tspan5795-1-6-4-3">Geraniales</tspan></text>
     </g>
     <g
-       transform="translate(0,3.9453125e-5)"
+       transform="translate(0,3.95e-5)"
        id="g5637">
       <g
          transform="translate(-200.00005,-25.00004)"
@@ -5209,16 +5209,17 @@
         </g>
       </g>
       <g
-         transform="translate(39.99995,-50)"
+         transform="translate(39.999893,-50)"
          id="g7619-6">
         <rect
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4172-1-3-66-9-7-6-2-1"
-           width="60"
-           height="15.000039"
-           x="900"
+           width="89.999992"
+           height="15"
+           x="885.00006"
            y="-1377.6379"
-           ry="4.9999785" />
+           ry="4.9999785"
+           rx="4.9999785" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:center;text-anchor:middle;opacity:1;fill:#85754e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -5229,7 +5230,7 @@
              sodipodi:role="line"
              x="929.76501"
              y="-1367.553"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none">Geranium</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none">Geranium/Nymph</tspan></text>
       </g>
     </g>
     <g
@@ -7810,11 +7811,12 @@
        inkscape:connection-end="#g5932" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#1be866;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 891.83202,-1232.6379 49.62968,-203.1715"
+       d="m 891.83202,-1232.6379 43.96946,-180"
        id="path5198"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
        inkscape:connection-start="#g7619-5"
+       sodipodi:nodetypes="cc"
        inkscape:connection-end="#g5637" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient9739);stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -26532,12 +26534,12 @@
              x="2325.1062"
              y="814.68713"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none"
-             id="tspan9714-5">Domestic</tspan><tspan
+             id="tspan8089">Magic Goat/</tspan><tspan
              sodipodi:role="line"
              x="2325.1062"
              y="827.18713"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none"
-             id="tspan8089">Goat</tspan></text>
+             id="tspan9837">Magic Fox</tspan></text>
       </g>
       <image
          width="40"
@@ -26591,9 +26593,9 @@
         <rect
            ry="4.9999785"
            y="802.36212"
-           x="2310"
+           x="2285"
            height="14.999978"
-           width="30"
+           width="80"
            id="rect4172-1-9-6-4-2-2-1-2-1-8-4-2-9-3-6-4-7-9-6-1-9-7-8-7-5-3-2-1-7-2-9-3-6-0-78-7-7-1-4-6-1-0-3-0"
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
@@ -26606,7 +26608,7 @@
              y="812.47211"
              x="2325.3533"
              sodipodi:role="line"
-             id="tspan7998-9-3-8-1-8-2">Goat</tspan></text>
+             id="tspan7998-9-3-8-1-8-2">Mountain Goat</tspan></text>
       </g>
       <image
          width="40"
@@ -26864,7 +26866,7 @@
        inkscape:connection-end="#g8861" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#b69fff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 3012.9375,-5152.6379 -40.1138,-145.8682"
+       d="m 3012.9375,-5152.6379 -39.875,-145"
        id="path9011"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -27680,7 +27682,7 @@
            id="tspan6270-2-2-9-4-6-3-9-5-2-9-7-4-8-6-8-7-0-4-4-8-0">Mephitidae</tspan></text>
     </g>
     <g
-       transform="translate(-730,-5715)"
+       transform="translate(-630,-5715)"
        id="g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-6-8-8-3-0-8-6-9-5-2-2-6">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -27689,7 +27691,8 @@
          height="14.999978"
          x="2290"
          y="802.36212"
-         ry="4.9999785" />
+         ry="4.9999785"
+         rx="4.9999785" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:center;text-anchor:middle;opacity:1;fill:#bbb477;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -27701,29 +27704,6 @@
            y="813.43713"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1"
            id="tspan6270-2-2-9-4-6-3-9-5-2-9-7-4-8-6-8-7-0-4-4-8-0-9">Ailuridae</tspan></text>
-    </g>
-    <g
-       transform="translate(-630,-5755)"
-       id="g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-6-8-8-3-0-8-6-9-5-2-2-4">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4172-07-2-9-6-1-6-5-1-2-7-8-0-6-9-2-5-1-9-6-8-0-5-6-3-7-0-0-5-8-8-6-2-5-3-3-4-9-4-3-2-0-6-9"
-         width="70"
-         height="14.999978"
-         x="2290"
-         y="802.36212"
-         ry="4.9999785" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:center;text-anchor:middle;opacity:1;fill:#bbb477;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="2324.79"
-         y="813.43713"
-         id="text4174-8-6-4-7-2-7-6-2-6-9-7-2-5-4-9-6-2-3-2-7-2-9-1-1-8-3-6-62-4-9-4-1-7-1-8-8-7-3-7-5-6-1-0"><tspan
-           sodipodi:role="line"
-           x="2324.79"
-           y="813.43713"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1"
-           id="tspan6270-2-2-9-4-6-3-9-5-2-9-7-4-8-6-8-7-0-4-4-8-0-91">Procyonidae</tspan></text>
     </g>
     <g
        transform="translate(-330,-5815)"
@@ -27867,15 +27847,7 @@
        inkscape:connection-end="#g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-6-8-8-3-0-8-6-9-5-2-2-7-5-6-5" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#b69fff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2219.4231,-4692.6379 -508.8462,-245"
-       id="path10248"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-6-8-8-3-0-8-6-9-5-2"
-       inkscape:connection-end="#g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-6-8-8-3-0-8-6-9-5-2-2-4" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#b69fff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2213.1819,-4692.6379 -596.3638,-205"
+       d="m 2216.5909,-4692.6379 -503.1818,-205"
        id="path10250"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -28719,7 +28691,7 @@
        inkscape:connection-end="#g9147" />
     <g
        id="g9281"
-       transform="translate(-20,0)">
+       transform="translate(80,0)">
       <circle
          r="37.5"
          cy="-4975.1377"
@@ -28737,7 +28709,8 @@
            height="14.999978"
            width="60"
            id="rect4172-1-9-6-4-2-2-1-2-1-8-4-2-9-3-6-4-7-9-6-1-9-7-8-7-5-3-2-1-7-2-9-3-6-0-78-7-7-1-4-6-1-2-5-0-1-2-6-3"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           rx="4.9999785" />
         <text
            id="text4174-5-2-3-1-0-3-94-7-5-5-8-1-2-6-9-7-3-4-1-5-3-4-8-3-4-0-7-5-7-3-7-6-1-3-6-8-3-0-9-4-0-6-3-9-9-0-5-1"
            y="812.5321"
@@ -28771,14 +28744,15 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#b69fff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1583.125,-4912.6379 -56.7509,-35.8426"
+       d="m 1683.125,-4912.6379 -56.7509,-35.8426"
        id="path9290"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
        inkscape:connection-start="#g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-6-8-8-3-0-8-6-9-5-2-2-6"
        inkscape:connection-end="#g9281" />
     <g
-       id="g8470">
+       id="g8470"
+       transform="translate(610,-247.0002)">
       <circle
          r="37.5"
          cy="-5055.1377"
@@ -28792,11 +28766,12 @@
         <rect
            ry="4.9999785"
            y="802.36212"
-           x="2295"
+           x="2290"
            height="14.999978"
-           width="60"
+           width="70"
            id="rect4172-1-9-6-4-2-2-1-2-1-8-4-2-9-3-6-4-7-9-6-1-9-7-8-7-5-3-2-1-7-2-9-3-6-0-78-7-7-1-4-6-1-2-5-0-1-2-6-3-5"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           rx="4.9999785" />
         <text
            id="text4174-5-2-3-1-0-3-94-7-5-5-8-1-2-6-9-7-3-4-1-5-3-4-8-3-4-0-7-5-7-3-7-6-1-3-6-8-3-0-9-4-0-6-3-9-9-0-5-1-3"
            y="812.5321"
@@ -28807,7 +28782,7 @@
              y="812.5321"
              x="2325.1238"
              sodipodi:role="line"
-             id="tspan8413-7-6-6-4-5">Raccoon</tspan></text>
+             id="tspan8413-7-6-6-4-5">Raccoon Dog</tspan></text>
       </g>
       <image
          width="40"
@@ -28828,14 +28803,6 @@
          x="1620"
          y="-5070.6377" />
     </g>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#b69fff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1689.375,-4952.6379 1650,-5005.1378"
-       id="path8479"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-6-8-8-3-0-8-6-9-5-2-2-4"
-       inkscape:connection-end="#g8470" />
     <g
        id="g8564"
        transform="translate(-20,0)">
@@ -36726,7 +36693,7 @@
            x="4956.9995"
            y="6623.5"
            style="-inkscape-font-specification:'Helvetica Neue';font-family:'Helvetica Neue';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara9821"></flowPara></flowRoot>    <flowRoot
+         id="flowPara9821" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9823"
        style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:30px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Thin';text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -36747,5 +36714,13 @@
          id="flowPara9847"
          style="text-align:start;text-anchor:start" /><flowPara
          id="flowPara9849"
-         style="text-align:start;text-anchor:start">Version 0.1 Posted by /u/aniavasq.</flowPara></flowRoot>  </g>
+         style="text-align:start;text-anchor:start">Version 0.1 Posted by /u/aniavasq.</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b69fff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2342.1575,-5357.6379 -76.291,44.5539"
+       id="path9842"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-6-8-8-3-0-8-6-9-5-2-2-7-5-6-5"
+       inkscape:connection-end="#g8470" />
+  </g>
 </svg>
