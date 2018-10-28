@@ -1941,9 +1941,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="791.70119"
-     inkscape:cy="6160.1342"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="2963.4078"
+     inkscape:cy="575.35231"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2862,11 +2862,11 @@
          transform="translate(-355.00004,-305.00002)"
          id="g4178-2-6-4">
         <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09544504;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4172-1-2-7"
-           width="50"
+           width="60"
            height="29.999985"
-           x="2300"
+           x="2295"
            y="802.36212"
            ry="4.9999785" />
         <text
@@ -2875,16 +2875,16 @@
            x="2324.9351"
            y="814.60211"
            id="text4174-5-9-6"><tspan
-             id="tspan4294-6"
-             sodipodi:role="line"
-             x="2326.3218"
-             y="814.60211"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none">Guardian </tspan><tspan
              id="tspan4942"
              sodipodi:role="line"
              x="2324.9351"
+             y="814.60211"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none">Brass Tower</tspan><tspan
+             sodipodi:role="line"
+             x="2324.9351"
              y="827.10211"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none">of the Sea</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none"
+             id="tspan6519">Perch</tspan></text>
       </g>
     </g>
     <g
@@ -2929,14 +2929,14 @@
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none"
            y="814.60211"
-           x="2326.3218"
+           x="2324.9351"
            sodipodi:role="line"
-           id="tspan4942-5">Guardian </tspan><tspan
+           id="tspan5041">Bell Tower</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none"
            y="827.10211"
            x="2324.9351"
            sodipodi:role="line"
-           id="tspan5041">of the Skies</tspan></text>
+           id="tspan6525">Perch</tspan></text>
     </g>
     <g
        transform="translate(540,-99.99996)"
@@ -3484,7 +3484,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none"
              y="814.60211"
              x="2324.9351"
-             sodipodi:role="line">Seas</tspan><tspan
+             sodipodi:role="line">Sea</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none"
              y="827.10211"
              x="2324.9351"
