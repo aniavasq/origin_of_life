@@ -1942,8 +1942,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.28"
-     inkscape:cx="2250.3874"
-     inkscape:cy="1492.3408"
+     inkscape:cx="3972.2624"
+     inkscape:cy="6492.3408"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1972,7 +1972,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5217,13 +5217,13 @@
           <image
              sodipodi:absref="/Users/anibal/Workspace/PersonalProjects/origin_of_life/cropped/cropped_902.png"
              xlink:href="cropped/cropped_902.png"
-             y="-1552.6379"
-             x="1150"
-             id="image9851-6"
-             style="image-rendering:optimizeSpeed"
-             preserveAspectRatio="none"
+             width="40"
              height="30"
-             width="40" />
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeSpeed"
+             id="image9851-6"
+             x="1150"
+             y="-1552.6379" />
         </g>
       </g>
       <g
@@ -8252,7 +8252,7 @@
        inkscape:connection-end="#g4178-3-2-5-3-3-2-3" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ff5b2c;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2299.1139,-342.63788 -118.8197,-81.86133"
+       d="m 2298.3572,-342.63788 -121.7235,-78.41161"
        id="path5275"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -8276,7 +8276,7 @@
        inkscape:connection-end="#g5784" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ff5b2c;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2309.0741,-342.63788 -22.2222,-179.99996"
+       d="m 2309.0816,-342.63788 -22.0408,-179.99996"
        id="path5283"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -17205,8 +17205,8 @@
            y="813.43713"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1"
            id="tspan7897-9-5-5-8"><tspan
-   style="-inkscape-font-specification:'Helvetica Neue Italic';font-family:'Helvetica Neue';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
-   id="tspan6530">Serpentempinnatia</tspan> </tspan></text>
+             style="-inkscape-font-specification:'Helvetica Neue Italic';font-family:'Helvetica Neue';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+             id="tspan6530">Serpentempinnatia</tspan></tspan></text>
     </g>
     <g
        transform="translate(1870,-3675)"
@@ -32632,7 +32632,7 @@
        inkscape:connection-end="#g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-1-3-5-3-3-7-2-9-9-1-1-8-3-7" />
     <g
        id="g12597"
-       transform="translate(120,-40)">
+       transform="translate(60,60)">
       <circle
          r="37.5"
          cy="-5475.1377"
@@ -33299,7 +33299,7 @@
        inkscape:connection-end="#g12707" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 4005.1724,-5432.6379 3960,-5467.1115"
+       d="m 3981.3876,-5419.1744 -85.5835,15.1843"
        id="path13015"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -36693,23 +36693,23 @@
       <image
          sodipodi:absref="/Users/anibal/Workspace/PersonalProjects/origin_of_life/custom_sprites/cropped_150_shadow_x.png"
          xlink:href="custom_sprites/cropped_150_shadow_x.png"
-         y="286.96231"
-         x="1405"
-         id="image9928"
-         style="image-rendering:optimizeSpeed"
-         preserveAspectRatio="none"
+         width="40"
          height="30"
-         width="40" />
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeSpeed"
+         id="image9928"
+         x="1405"
+         y="286.96231" />
       <image
          sodipodi:absref="/Users/anibal/Workspace/PersonalProjects/origin_of_life/custom_sprites/cropped_150_shadow.png"
          xlink:href="custom_sprites/cropped_150_shadow.png"
-         y="286.96231"
-         x="1365"
-         id="image9939"
-         style="image-rendering:optimizeSpeed"
-         preserveAspectRatio="none"
+         width="40"
          height="30"
-         width="40" />
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeSpeed"
+         id="image9939"
+         x="1365"
+         y="286.96231" />
     </g>
     <g
        transform="translate(-102.5,20.000039)"
@@ -36747,13 +36747,13 @@
       <image
          sodipodi:absref="/Users/anibal/Workspace/PersonalProjects/origin_of_life/custom_sprites/cropped_68_burst.png"
          xlink:href="custom_sprites/cropped_68_burst.png"
-         y="-2617.6379"
-         x="4637.5"
-         id="image10070"
-         style="image-rendering:optimizeSpeed"
-         preserveAspectRatio="none"
+         width="40"
          height="30"
-         width="40" />
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeSpeed"
+         id="image10070"
+         x="4637.5"
+         y="-2617.6379" />
       <image
          width="40"
          height="30"
@@ -36795,13 +36795,13 @@
       <image
          sodipodi:absref="/Users/anibal/Workspace/PersonalProjects/origin_of_life/cropped/cropped_0.png"
          xlink:href="cropped/cropped_0.png"
-         width="40"
-         height="30"
-         preserveAspectRatio="none"
-         style="fill:#acace6;fill-opacity:1;image-rendering:optimizeSpeed"
-         id="image10247"
+         y="377.36209"
          x="1605"
-         y="377.36209" />
+         id="image10247"
+         style="fill:#acace6;fill-opacity:1;image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="30"
+         width="40" />
     </g>
     <path
        style="fill:#acace6;fill-opacity:1;fill-rule:evenodd;stroke:#acace6;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -36858,5 +36858,98 @@
        inkscape:connector-curvature="3"
        inkscape:connection-start="#g6814"
        inkscape:connection-end="#g4178-3-2-5-3-9-3-3-9-06-3-3-0-8-0-1-9" />
+    <g
+       id="g12952-0"
+       transform="translate(-310,-310)">
+      <circle
+         r="52.5"
+         cy="-5225.9375"
+         cx="4182.5"
+         id="path4168-6-2-3-7-0-9-1-9-3-6-7-1-3-7-6-6-0-8-86-3-5"
+         style="opacity:1;fill:#764dff;fill-opacity:1;stroke:none;stroke-width:0.99009901;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         style="stroke:none"
+         transform="translate(1857.5,-5970)"
+         id="g4178-2-4-7-7-2-0-6-7-8-7-7-7-0-2-4-3-2-8-2">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4172-1-9-6-4-70-8-0-5-6-8-4-6-4-5-2-8-8-3-2"
+           width="85"
+           height="15.000022"
+           x="2282.5"
+           y="802.36212"
+           ry="4.9999785" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:center;text-anchor:middle;opacity:1;fill:#85754e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="2324.9988"
+           y="813.7821"
+           id="text4174-5-2-3-1-9-8-6-3-8-5-5-7-8-8-22-0-47-3-7"><tspan
+             sodipodi:role="line"
+             x="2324.9988"
+             y="813.7821"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;text-anchor:middle;fill:#313131;fill-opacity:1;stroke:none"
+             id="tspan10875-8-3">Hex Nut</tspan></text>
+      </g>
+      <g
+         id="g6742"
+         transform="translate(-12.5,-13.299805)">
+        <image
+           width="40"
+           height="30"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAYAAABe3VzdAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+B3RJTUUH4gsMEycelPQMrwAAAXdJREFUWMPtlrFygkAURe9aWab1E5xU2JEO7NRKOkomf0BSxVRi
+F//AsbSkInZhO+lI5TfYaRm6l2KBgWAyE3Y1M5m9zTK7sO/M3fsAQEtLS0tLS0ZM0T50qf2ZCrBo
+5dYmx2ZXbH67lq4h8zDNfRczr9tYCNZZOa8CsjUgHSOiY0Rz36XcTaK9R7T3aO675fUPEbg8nGVZ
+XwEakDKAnbZHi0MI21kijmNMp361UVh+rDD64rjzjNK1AGu5c5yHb+8rmqUYrwYYrDMAgD3o4XRK
+EYbLaiMIhwG8JlltvG4GKzmr5FDkrtI80cqVyiCThKw5CgCzJ+FesNjA6AOT+41UHabAybMRiNMD
+OOd/+qIuIS3Lakze2SOYxgCTybCoQ21qKvsWR9Ebkve0sbCLt+Ccg0YG7I+bX7vKVMFVVYDu4q3I
+ZdbDMNm0qtmRziDVG3Q8tmEag/KYOecFHGtjiBIHc1LhVvACAFg8PyqpofIvgy64t9b/1SfQvcSa
+y5c5NwAAAABJRU5ErkJggg==
+"
+           id="image6691"
+           x="4150"
+           y="-5227.6377" />
+        <image
+           width="50"
+           height="30"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAeCAYAAABuUU38AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+B3RJTUUH4gsMEzcvj+gexAAABANJREFUWMPdWCGQ4zYUfd4JWNiEFRpmDvWgD8nQY7Rmt4d2l7XM
+CfOiDcsIlnmDmmNelDOM0Bq26MbQsMxm12UqsKWTbDl29pJe5zSTsZPIX3r//ff/t4AfZFhnts//
+q7UvzgmCEAL+5bnzIYQMgfzfMMIJIdgn3T+yp/r67o6ddH3rhGGj2uK8JACA4G4KAKiqSgI7B5jJ
+t3jc81z5w3J5z5tNaSBCr0K0BRhjsGYALwmcq69gjnTQyYFoIPK86PzfBsE5h+u6sGYMAuhzTPDu
+jnFls4ccdHKx8/X6QfuhKAop4ObaGa7rat+dq2GW87zAzc3NqMRw8ZqQUodgw7ZtsSjcAEjimg0b
+b/EcEzDGwBjDc0ykTqItpAPazjln+uW73e7ghKIosP+0kmAAYO79hKxysV4/gBAimYi29XV1XYNJ
+070xXItiHCuv0oiqiaIoOiCm0zpTxXGsPXd7+yvcIJBzhIZs25Z22o5JkgSz2exkYh9kYzqdIvsY
+wXm/QvJHWAv+w11nngCLlwiLxc/YJ3/DDYrepAEAZVkOgrHG1AmhizCsN0gphW3bmudW1wBNayZC
+r4LzfmU0Gnyg8j6JK6kVwYqwK9hQRwPGOgaIUXxpukcYhvB9XwpbBSKGAGQaSVzJ+8foBfO3l7I4
+EkKMQIImHIE6lZv2PukDkab7Tt3wPBe+7wOAtdlsdPFdf81moVch//MFt6vLUXErhC82qbIdBIGW
+BMR9u75YfSlWpVV4RDFiepYTQiQzY4A8Ri/Y5peSZdEZqCEt1lQda9pHmxFelmU3HJIEQRB0UmQ7
+TBljPELNzPXcPMkN1G8dEJqDGGPc81yk6V46NssyUEo7+5iYQKgxKQwIMENNKGOM73Y7UEqxNUwX
+CWPsECCm0ymqqoLjODLhmMTOy7LshJBqSABs4tgak64ppYiajW+fnlAUhQbEcRw1E3FTF92OkCzL
+5L3KpNasqSJrF6UxKbCtlygMsWo8F4WhBGOwh89XHgDgzVMqgZkiRGVWdcREZWM+t7Xqbcrl5xif
+rzz8Vv1jZLudtWSKp1SGmdRIe3IfiBEakWHlOA6CIOiEVtumcGILhNZJ9FV8AFivH7Bc3vOjeq0R
++tA20E4QfewO2VUjpd3jjeq1siyT9KkiGzPEs4dCU2SippfSClye/zW4xuPj7xoQizHGTUJXU1wr
+149qLFVHDIFpp/Hl8n6wUVWL4kUfVSqwESAOMtPHpgqg2TTXXxcOszKf/9J5sbKUZuzVJzINYG34
+vg/f97FYLHrB9AC1Gm8jz4vOp6+ODJ0MHsNG3ymILJKmSt8qjpo9tdMWY7PZaHMnZziwsw4wJl8P
+hFcppepboHXqRb/HebB15DPa/H8BPp9kKPJmED8AAAAASUVORK5CYII=
+"
+           id="image6737"
+           x="4190"
+           y="-5227.6377" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#764dff;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3909.9538,-5499.1492 94.4013,66.5113"
+       id="path6746"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       inkscape:connection-start="#g12952-0"
+       inkscape:connection-end="#g4178-3-2-5-3-9-3-3-9-06-8-1-2-73-3-1-3-9-0-0-1-2-7-3-9-4-5-1-3-7-6-6-1-3-5-3-3-7-2-9-9-1-1-8-3-7-9" />
   </g>
 </svg>
